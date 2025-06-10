@@ -95,11 +95,9 @@ To execute the script, ensure you have the AWS CLI configured with the necessary
 ```bash
 ./script.sh
 ```
-## 📸 Screenshot – Running the Script
+## 📸 Screenshot – Running the Script & S3 Bucket created from AWS console
 
-![Run Script](img/Script_out.png):
-
-📸 **Screenshot – S3 Buckets in Console:**
+![Run Script](img/Script_out.png)
 
 ![S3 Buckets](img/S3-bucket.png)
 
