@@ -101,7 +101,7 @@ To execute the script, ensure you have the AWS CLI configured with the necessary
 
 📸 **Screenshot – S3 Buckets in Console:**
 
-![S3 Buckets](img/Script_out.png)
+![S3 Buckets](img/S3-bucket.png)
 
 ---
 
